@@ -1,0 +1,49 @@
+body{
+    background-image: url("img2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+.form{
+    margin: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-color: rgba(0, 225, 255, 0.514);  
+    border-radius: 15%; 
+    border-width: 5px;
+    text-align: center;
+    background-color: aliceblue;
+}
+p{
+    text-align: left;
+    font-size: medium;
+}
+
+#email{
+    width: 40em;
+    height: 2em;
+    padding: 0.6em;
+}
+#password{
+    width: 40em;
+    height: 2em;
+    padding: 0.6em;
+}
+#button_1{
+    
+    border-radius: 45%;
+    border-color: whitesmoke;
+    width: 6em;
+    height: 4em;
+    background-color: rgb(9, 118, 243);
+    color: white;
+    float: center;
+}
+.checkbox{
+    float: left;
+    text-align: left;
+}
+#forgot{
+    float: right;
+    text-decoration: underline;
+}

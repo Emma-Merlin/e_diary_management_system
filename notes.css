@@ -1,0 +1,14 @@
+body{
+    background-color: #cccccc;
+}
+h1{
+    color: #e8491d;
+    text-align: center;
+}
+.textzone{
+    margin-left: 680px;
+}
+.box{
+    width: 200px;
+    height: 200px;
+}
