@@ -17,7 +17,7 @@
     </style>
     <body>
         <header>
-            <a href="My Project.html"><img src="images/home.png" alt="home" class="home" width="20px" height="20px"></a>
+            <a href="index.html"><img src="images/home.png" alt="home" class="home" width="20px" height="20px"></a>
         </header>
         <div class="field">
             <input type="text" name="old password" placeholder="Input your Old password"><br><br>

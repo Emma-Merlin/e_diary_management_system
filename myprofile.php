@@ -13,7 +13,7 @@
     </style>
     <body>
         <header>
-            <a href="My Project.html"><img src="images/home.png" alt="home" class="home" width="20px" height="20px"></a>
+            <a href="index.html"><img src="images/home.png" alt="home" class="home" width="20px" height="20px"></a>
         </header>
         <div>
             <input type="text" name="name" placeholder="Input your name"><br><br>
